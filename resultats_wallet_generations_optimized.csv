@@ -1,0 +1,253 @@
+Fichier,Nombre_generations,Max_gain,Temps_execution
+wallet1.csv,1,13567,0.001001596450805664
+wallet1.csv,5,13393,0.0010004043579101562
+wallet1.csv,10,13398,0.0020012855529785156
+wallet1.csv,15,13590,0.004004240036010742
+wallet1.csv,20,13600,0.004004716873168945
+wallet1.csv,25,13600,0.005509614944458008
+wallet1.csv,30,13601,0.00700688362121582
+wallet1.csv,35,13590,0.00800776481628418
+wallet1.csv,40,13596,0.00900721549987793
+wallet1.csv,45,13601,0.011010169982910156
+wallet1.csv,50,13603,0.011009693145751953
+wallet1.csv,55,13604,0.014012575149536133
+wallet1.csv,60,13606,0.014014720916748047
+wallet1.csv,65,13605,0.015515327453613281
+wallet1.csv,70,13598,0.016013622283935547
+wallet1.csv,75,13606,0.020017623901367188
+wallet1.csv,80,13607,0.01901721954345703
+wallet1.csv,85,13606,0.02201986312866211
+wallet1.csv,90,13604,0.02006244659423828
+wallet1.csv,95,13606,0.023020267486572266
+wallet1.csv,100,13606,0.024021387100219727
+wallet2.csv,1,16642,0.001001119613647461
+wallet2.csv,5,17043,0.0010013580322265625
+wallet2.csv,10,17068,0.0030031204223632812
+wallet2.csv,15,17075,0.00400233268737793
+wallet2.csv,20,17074,0.005003690719604492
+wallet2.csv,25,17074,0.0050029754638671875
+wallet2.csv,30,17075,0.008008003234863281
+wallet2.csv,35,17075,0.008006811141967773
+wallet2.csv,40,17073,0.009512901306152344
+wallet2.csv,45,17070,0.010008573532104492
+wallet2.csv,50,17074,0.012010574340820312
+wallet2.csv,55,17074,0.013011693954467773
+wallet2.csv,60,17076,0.015013694763183594
+wallet2.csv,65,17075,0.019016742706298828
+wallet2.csv,70,17075,0.018518924713134766
+wallet2.csv,75,17075,0.018015384674072266
+wallet2.csv,80,17075,0.024020671844482422
+wallet2.csv,85,17075,0.025022506713867188
+wallet2.csv,90,17073,0.027529001235961914
+wallet2.csv,95,17076,0.022020816802978516
+wallet2.csv,100,17075,0.02402210235595703
+wallet3.csv,1,9013,0.0
+wallet3.csv,5,9267,0.0010006427764892578
+wallet3.csv,10,9280,0.0020017623901367188
+wallet3.csv,15,9188,0.004003286361694336
+wallet3.csv,20,9236,0.004002809524536133
+wallet3.csv,25,9275,0.006005048751831055
+wallet3.csv,30,9237,0.007006406784057617
+wallet3.csv,35,9218,0.009009599685668945
+wallet3.csv,40,9240,0.009510993957519531
+wallet3.csv,45,9250,0.011009454727172852
+wallet3.csv,50,9242,0.01201176643371582
+wallet3.csv,55,9234,0.01301121711730957
+wallet3.csv,60,9235,0.015013694763183594
+wallet3.csv,65,9246,0.015013456344604492
+wallet3.csv,70,9280,0.020019054412841797
+wallet3.csv,75,9278,0.018212080001831055
+wallet3.csv,80,9249,0.02001810073852539
+wallet3.csv,85,9280,0.021019458770751953
+wallet3.csv,90,9249,0.02402186393737793
+wallet3.csv,95,9280,0.022522926330566406
+wallet3.csv,100,9236,0.025022506713867188
+wallet4.csv,1,4013,0.0
+wallet4.csv,5,4024,0.0020012855529785156
+wallet4.csv,10,4023,0.0030031204223632812
+wallet4.csv,15,4047,0.0030024051666259766
+wallet4.csv,20,4034,0.0050046443939208984
+wallet4.csv,25,4048,0.0060062408447265625
+wallet4.csv,30,4023,0.009007692337036133
+wallet4.csv,35,4049,0.009006500244140625
+wallet4.csv,40,4049,0.01301264762878418
+wallet4.csv,45,4050,0.010510921478271484
+wallet4.csv,50,4051,0.017015695571899414
+wallet4.csv,55,4049,0.016014814376831055
+wallet4.csv,60,4051,0.01501321792602539
+wallet4.csv,65,4050,0.016014814376831055
+wallet4.csv,70,4049,0.024022817611694336
+wallet4.csv,75,4050,0.018520355224609375
+wallet4.csv,80,4050,0.022020339965820312
+wallet4.csv,85,4049,0.023020267486572266
+wallet4.csv,90,4049,0.024023771286010742
+wallet4.csv,95,4049,0.04053807258605957
+wallet4.csv,100,4048,0.031028032302856445
+Portefeuille: wallet1.csv, Générations: 1, Gain max: 13155, Temps execution: 0.00s
+Portefeuille: wallet1.csv, Générations: 5, Gain max: 13150, Temps execution: 0.00s
+Portefeuille: wallet1.csv, Générations: 10, Gain max: 13158, Temps execution: 0.00s
+Portefeuille: wallet1.csv, Générations: 15, Gain max: 13399, Temps execution: 0.00s
+Portefeuille: wallet1.csv, Générations: 20, Gain max: 13342, Temps execution: 0.00s
+Portefeuille: wallet1.csv, Générations: 25, Gain max: 13605, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 30, Gain max: 13410, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 35, Gain max: 13603, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 40, Gain max: 13603, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 45, Gain max: 13603, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 50, Gain max: 13606, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 55, Gain max: 13606, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 60, Gain max: 13603, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 65, Gain max: 13605, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 70, Gain max: 13605, Temps execution: 0.02s
+Portefeuille: wallet1.csv, Générations: 75, Gain max: 13606, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 80, Gain max: 13606, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 85, Gain max: 13597, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 90, Gain max: 13608, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 95, Gain max: 13604, Temps execution: 0.02s
+Portefeuille: wallet1.csv, Générations: 100, Gain max: 13600, Temps execution: 0.02s
+Portefeuille: wallet2.csv, Générations: 1, Gain max: 16738, Temps execution: 0.00s
+Portefeuille: wallet2.csv, Générations: 5, Gain max: 17072, Temps execution: 0.00s
+Portefeuille: wallet2.csv, Générations: 10, Gain max: 17072, Temps execution: 0.00s
+Portefeuille: wallet2.csv, Générations: 15, Gain max: 17041, Temps execution: 0.00s
+Portefeuille: wallet2.csv, Générations: 20, Gain max: 17073, Temps execution: 0.00s
+Portefeuille: wallet2.csv, Générations: 25, Gain max: 17075, Temps execution: 0.00s
+Portefeuille: wallet2.csv, Générations: 30, Gain max: 17074, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 35, Gain max: 17075, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 40, Gain max: 17072, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 45, Gain max: 17075, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 50, Gain max: 17075, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 55, Gain max: 17074, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 60, Gain max: 17075, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 65, Gain max: 17076, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 70, Gain max: 17067, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 75, Gain max: 17075, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 80, Gain max: 17075, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 85, Gain max: 17074, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 90, Gain max: 17075, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 95, Gain max: 17075, Temps execution: 0.02s
+Portefeuille: wallet2.csv, Générations: 100, Gain max: 17071, Temps execution: 0.02s
+Portefeuille: wallet3.csv, Générations: 1, Gain max: 9070, Temps execution: 0.00s
+Portefeuille: wallet3.csv, Générations: 5, Gain max: 9223, Temps execution: 0.00s
+Portefeuille: wallet3.csv, Générations: 10, Gain max: 9148, Temps execution: 0.00s
+Portefeuille: wallet3.csv, Générations: 15, Gain max: 9249, Temps execution: 0.00s
+Portefeuille: wallet3.csv, Générations: 20, Gain max: 9233, Temps execution: 0.00s
+Portefeuille: wallet3.csv, Générations: 25, Gain max: 9278, Temps execution: 0.00s
+Portefeuille: wallet3.csv, Générations: 30, Gain max: 9280, Temps execution: 0.00s
+Portefeuille: wallet3.csv, Générations: 35, Gain max: 9280, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 40, Gain max: 9232, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 45, Gain max: 9280, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 50, Gain max: 9280, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 55, Gain max: 9280, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 60, Gain max: 9252, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 65, Gain max: 9252, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 70, Gain max: 9236, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 75, Gain max: 9255, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 80, Gain max: 9235, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 85, Gain max: 9255, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 90, Gain max: 9236, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 95, Gain max: 9280, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 100, Gain max: 9279, Temps execution: 0.02s
+Portefeuille: wallet4.csv, Générations: 1, Gain max: 3998, Temps execution: 0.00s
+Portefeuille: wallet4.csv, Générations: 5, Gain max: 3984, Temps execution: 0.00s
+Portefeuille: wallet4.csv, Générations: 10, Gain max: 4035, Temps execution: 0.00s
+Portefeuille: wallet4.csv, Générations: 15, Gain max: 4007, Temps execution: 0.00s
+Portefeuille: wallet4.csv, Générations: 20, Gain max: 4048, Temps execution: 0.00s
+Portefeuille: wallet4.csv, Générations: 25, Gain max: 4037, Temps execution: 0.00s
+Portefeuille: wallet4.csv, Générations: 30, Gain max: 4048, Temps execution: 0.00s
+Portefeuille: wallet4.csv, Générations: 35, Gain max: 4016, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 40, Gain max: 4048, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 45, Gain max: 4030, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 50, Gain max: 4049, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 55, Gain max: 4051, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 60, Gain max: 4050, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 65, Gain max: 4048, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 70, Gain max: 4050, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 75, Gain max: 4050, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 80, Gain max: 4049, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 85, Gain max: 4050, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 90, Gain max: 4048, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 95, Gain max: 4050, Temps execution: 0.02s
+Portefeuille: wallet4.csv, Générations: 100, Gain max: 4048, Temps execution: 0.02s
+Portefeuille: wallet1.csv, Générations: 1, Gain max: 12835, Temps execution: 0.00s
+Portefeuille: wallet1.csv, Générations: 5, Gain max: 13375, Temps execution: 0.00s
+Portefeuille: wallet1.csv, Générations: 10, Gain max: 13596, Temps execution: 0.00s
+Portefeuille: wallet1.csv, Générations: 15, Gain max: 13600, Temps execution: 0.00s
+Portefeuille: wallet1.csv, Générations: 20, Gain max: 13595, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 25, Gain max: 13606, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 30, Gain max: 13598, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 35, Gain max: 13601, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 40, Gain max: 13603, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 45, Gain max: 13403, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 50, Gain max: 13603, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 55, Gain max: 13600, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 60, Gain max: 13403, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 65, Gain max: 13600, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 70, Gain max: 13603, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 75, Gain max: 13605, Temps execution: 0.01s
+Portefeuille: wallet1.csv, Générations: 80, Gain max: 13609, Temps execution: 0.02s
+Portefeuille: wallet1.csv, Générations: 85, Gain max: 13595, Temps execution: 0.02s
+Portefeuille: wallet1.csv, Générations: 90, Gain max: 13605, Temps execution: 0.02s
+Portefeuille: wallet1.csv, Générations: 95, Gain max: 13610, Temps execution: 0.02s
+Portefeuille: wallet1.csv, Générations: 100, Gain max: 13606, Temps execution: 0.02s
+Portefeuille: wallet2.csv, Générations: 1, Gain max: 16846, Temps execution: 0.00s
+Portefeuille: wallet2.csv, Générations: 5, Gain max: 17074, Temps execution: 0.00s
+Portefeuille: wallet2.csv, Générations: 10, Gain max: 17036, Temps execution: 0.00s
+Portefeuille: wallet2.csv, Générations: 15, Gain max: 17075, Temps execution: 0.00s
+Portefeuille: wallet2.csv, Générations: 20, Gain max: 17073, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 25, Gain max: 17075, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 30, Gain max: 17074, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 35, Gain max: 17075, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 40, Gain max: 17073, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 45, Gain max: 17074, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 50, Gain max: 17074, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 55, Gain max: 17076, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 60, Gain max: 17077, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 65, Gain max: 17075, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 70, Gain max: 17071, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 75, Gain max: 17074, Temps execution: 0.01s
+Portefeuille: wallet2.csv, Générations: 80, Gain max: 17075, Temps execution: 0.02s
+Portefeuille: wallet2.csv, Générations: 85, Gain max: 17075, Temps execution: 0.02s
+Portefeuille: wallet2.csv, Générations: 90, Gain max: 17073, Temps execution: 0.02s
+Portefeuille: wallet2.csv, Générations: 95, Gain max: 17074, Temps execution: 0.02s
+Portefeuille: wallet2.csv, Générations: 100, Gain max: 17074, Temps execution: 0.02s
+Portefeuille: wallet3.csv, Générations: 1, Gain max: 8856, Temps execution: 0.00s
+Portefeuille: wallet3.csv, Générations: 5, Gain max: 9045, Temps execution: 0.00s
+Portefeuille: wallet3.csv, Générations: 10, Gain max: 9210, Temps execution: 0.00s
+Portefeuille: wallet3.csv, Générations: 15, Gain max: 9227, Temps execution: 0.00s
+Portefeuille: wallet3.csv, Générations: 20, Gain max: 9233, Temps execution: 0.00s
+Portefeuille: wallet3.csv, Générations: 25, Gain max: 9278, Temps execution: 0.00s
+Portefeuille: wallet3.csv, Générations: 30, Gain max: 9280, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 35, Gain max: 9245, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 40, Gain max: 9234, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 45, Gain max: 9280, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 50, Gain max: 9244, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 55, Gain max: 9235, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 60, Gain max: 9278, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 65, Gain max: 9250, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 70, Gain max: 9279, Temps execution: 0.02s
+Portefeuille: wallet3.csv, Générations: 75, Gain max: 9244, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 80, Gain max: 9280, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 85, Gain max: 9237, Temps execution: 0.01s
+Portefeuille: wallet3.csv, Générations: 90, Gain max: 9279, Temps execution: 0.02s
+Portefeuille: wallet3.csv, Générations: 95, Gain max: 9244, Temps execution: 0.02s
+Portefeuille: wallet3.csv, Générations: 100, Gain max: 9235, Temps execution: 0.02s
+Portefeuille: wallet4.csv, Générations: 1, Gain max: 3976, Temps execution: 0.00s
+Portefeuille: wallet4.csv, Générations: 5, Gain max: 4023, Temps execution: 0.00s
+Portefeuille: wallet4.csv, Générations: 10, Gain max: 4025, Temps execution: 0.00s
+Portefeuille: wallet4.csv, Générations: 15, Gain max: 4037, Temps execution: 0.00s
+Portefeuille: wallet4.csv, Générations: 20, Gain max: 4050, Temps execution: 0.00s
+Portefeuille: wallet4.csv, Générations: 25, Gain max: 4049, Temps execution: 0.00s
+Portefeuille: wallet4.csv, Générations: 30, Gain max: 4049, Temps execution: 0.00s
+Portefeuille: wallet4.csv, Générations: 35, Gain max: 4042, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 40, Gain max: 4049, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 45, Gain max: 4049, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 50, Gain max: 4050, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 55, Gain max: 4049, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 60, Gain max: 4049, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 65, Gain max: 4048, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 70, Gain max: 4051, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 75, Gain max: 4048, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 80, Gain max: 4048, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 85, Gain max: 4048, Temps execution: 0.01s
+Portefeuille: wallet4.csv, Générations: 90, Gain max: 4050, Temps execution: 0.02s
+Portefeuille: wallet4.csv, Générations: 95, Gain max: 4049, Temps execution: 0.02s
+Portefeuille: wallet4.csv, Générations: 100, Gain max: 4037, Temps execution: 0.02s
